@@ -2,13 +2,10 @@
 only screen and (-o-min-device-pixel-ratio: 3/2),
 only screen and (min--moz-device-pixel-ratio: 1.5),
 only screen and (min-device-pixel-ratio: 1.5) {
-  a {
-    display: block;
+  nav.a {display: block;
     text-decoration: none;
     color: white;
-    margin-right: 25px;
-    padding: lem;
-  }
+    margin-right: 25px;}
 }
 
 nav {
@@ -29,7 +26,6 @@ nav {
     text-decoration: none;
     color: white;
     margin-right: 35px;
-    padding: lem;
   }
 
   footer{
